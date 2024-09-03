@@ -5,12 +5,16 @@ Jogo de xadrez construído em python, rodando através da ferramenta Pygame! Jog
 ## 🛠️ Intalação:
 
 1. Clone este repositório com `git clone` ou baixe o código-fonte e as pastas devidas.
-2. Necessidade de Python instalado em seu computador!
+2. Instalação de Python, caso não estiver previamente instalada em seu computador
 3. Instale as dependências, caso houver: `pip install pygame`
 
 ## 🚀 Execução:
 
 Digitar em seu terminal: `python game.py` ou clicar em `run` através de seu VS Code!
+
+## 📩 Dúvidas:
+
+Qualquer dúvida, pode enviar um email para: [Miguel Rossi Fermo](mailto:miguelrossifermo05@gmail.com)
 
 ## Demonstração do Jogo:
 
