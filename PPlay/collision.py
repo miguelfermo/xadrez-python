@@ -1,7 +1,7 @@
 from . import point
 import pygame
 
-
+# Ta curioso mesmo, veio ver o código fonte até aqui?
 class Collision():
 
     @classmethod
