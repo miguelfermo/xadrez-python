@@ -10,7 +10,7 @@ Jogo de xadrez construído em python, rodando através da ferramenta Pygame! Jog
 
 ## 🚀 Execução:
 
-Digitar em seu terminal: `python game.py` ou clicar em `run` através de seu VS Code!
+Digitar em seu terminal: `python game.py` (no pasta do projeto) ou clicar em `run` através de seu VS Code!
 
 ## 📩 Dúvidas:
 
